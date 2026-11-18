@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "586718574577",
+    "firebase_url": "https://notes-3cac3-default-rtdb.firebaseio.com",
+    "project_id": "notes-3cac3",
+    "storage_bucket": "notes-3cac3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586718574577:android:a04961617921725719b650",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crudnote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnAsMEzLtZR0DrP3Zdzb68THXXO9xWOsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
