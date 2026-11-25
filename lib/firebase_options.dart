@@ -66,6 +66,7 @@ class DefaultFirebaseOptions {
     projectId: 'notes-3cac3',
     databaseURL: 'https://notes-3cac3-default-rtdb.firebaseio.com',
     storageBucket: 'notes-3cac3.firebasestorage.app',
+    iosClientId: '586718574577-n9so5h05lsom079cahl1ubv8ublr5sh9.apps.googleusercontent.com',
     iosBundleId: 'com.example.firebaseCrudnote',
   );
   static const FirebaseOptions macos = FirebaseOptions(
@@ -75,6 +76,7 @@ class DefaultFirebaseOptions {
     projectId: 'notes-3cac3',
     databaseURL: 'https://notes-3cac3-default-rtdb.firebaseio.com',
     storageBucket: 'notes-3cac3.firebasestorage.app',
+    iosClientId: '586718574577-n9so5h05lsom079cahl1ubv8ublr5sh9.apps.googleusercontent.com',
     iosBundleId: 'com.example.firebaseCrudnote',
   );
 
